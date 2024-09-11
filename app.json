@@ -3,7 +3,7 @@
     "name": "TaskApplication",
     "slug": "TaskApplication",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
@@ -22,6 +22,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "entryPoint": "./App.js"
+
   }
 }
